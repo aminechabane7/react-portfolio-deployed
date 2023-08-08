@@ -3,7 +3,7 @@
   <a href="" target="_blank">Amine.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readm.png" />
+  <img alt="Demo" src="./Images/readm1.png" />
 </div>
 
 <br/>
